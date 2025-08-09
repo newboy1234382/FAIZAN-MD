@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=008080&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://ik.imagekit.io/mrshaban/IMG-20250808-WA0034.jpg?'/></a>
+<a><img src='https://ibb.co/SDt3yYyY/IMG-20250808-WA0034.jpg?'/></a>
 
 <p align="center">
   <a href="https://github.com/FAIZAN-MD"><img title="Developer" src="https://img.shields.io/badge/Author-FAIZAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
